@@ -1,0 +1,66 @@
+
+
+   *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   }
+   body {
+    background: #282A36;
+    font-family: 'Arial', sans-serif;
+    color: white;
+
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+input {
+    border: none;
+    color: #282A36;
+    border-radius: 2px;
+}
+
+
+.btn {
+    background-color: #009688;
+    border: none;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn-delete {
+    background-color: #EE1111;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+
+.updatebtn{
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    background-color: #009688;
+
+    border: none;
+    color: white;
+}
+
+
+
+.deletebtn{
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    background-color: #282A36;
+
+   border: none;
+   color: white;
+
+}
